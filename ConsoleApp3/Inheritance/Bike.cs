@@ -1,13 +1,9 @@
-﻿]using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ConsoleApp3.Inheritance
+﻿namespace ConsoleApp3.Inheritance
 {
     public class Bike : Vechile
     {
+        public string Diesel { get; set; }
 
+   
     }
 }

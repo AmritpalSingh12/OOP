@@ -15,5 +15,11 @@ namespace ConsoleApp3.Inheritance
         public string Type { get; set; }
         public int  Tyre { get; set; }
         public string Colour { get; set; }
+
+        public void Moveforward()
+        {
+
+        }
+
     }
 }
